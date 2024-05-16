@@ -1,0 +1,7 @@
+.cardinfo_container {
+    @apply flex justify-center border-2 border-red-600 m-10 py-3 rounded;
+  }
+  
+  .cardinfo_text {
+    @layer font-Nunito, text-lg;
+  }

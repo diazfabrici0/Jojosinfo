@@ -1,0 +1,11 @@
+.search_container {
+    @apply w-[300px];
+  }
+  
+  .search_container_input {
+    @apply flex items-center border-b border-teal-500 py-2;
+  }
+  
+  .search_input {
+    @apply bg-transparent w-full text-white py-1 px-2 leading-tight focus:outline-none;
+  }

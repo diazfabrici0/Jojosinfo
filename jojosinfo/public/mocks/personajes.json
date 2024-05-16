@@ -1,0 +1,156 @@
+{
+    "personajes": [
+      {
+        "id": "1",
+        "name": "Jonathan Joestar",
+        "alias": "JoJo",
+        "stand": "Usuario de Hamon",
+        "introduction": "Part 1: Phantom Blood",
+        "image": "https://i.pinimg.com/736x/ad/c8/0c/adc80cbb72e8c32105e83ebf0334b2c4.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Joseph Joestar",
+        "alias": "JoJo",
+        "stand": "Usuario de Hamon",
+        "introduction": "Part 2: Battle Tendency",
+        "image": "https://i.pinimg.com/736x/27/73/91/2773910b2c285b881e96c9a4c16794ad.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Joseph Joestar",
+        "alias": "JoJo",
+        "stand": "Purple Hermit + Hamon",
+        "introduction": "Part 3: Stardust Crusaders",
+        "image": "https://pbs.twimg.com/media/D1J0zyvXQAAwcRC.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Jotaro Kujo",
+        "alias": "JoJo",
+        "stand": "Star Platinum",
+        "introduction": "Part 3: Stardust Crusaders",
+        "image": "https://www.ixpap.com/images/2021/10/Jotaro-Kujo-Star-Platinum-Wallpaper-3.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Josuke Higashikata",
+        "alias": "JoJo",
+        "stand": "Crazy Diamond",
+        "introduction": "Part 4: Diamond is Unbreakable",
+        "image": "https://d.wattpad.com/story_parts/901116406/images/161707263b56f482464066862872.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Giorno Giovanna",
+        "alias": "JoJo",
+        "stand": "Gold Experience",
+        "introduction": "Part 5: Golden Wind",
+        "image": "https://i.pinimg.com/736x/97/81/08/978108f1e650d152ab2d01f6714911f0.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Jolyne Cujoh",
+        "alias": "JoJo",
+        "stand": "Stone Free",
+        "introduction": "Part 6: Stone Ocean",
+        "image": "https://pm1.aminoapps.com/6351/87c30e670e3afb11a2b95cbe2b38608dbe2aa4f0_hq.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Johnny Joestar",
+        "alias": "JoJo",
+        "stand": "Tusk",
+        "introduction": "Part 7: Steel Ball Run",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b972375-c76a-435c-aaf7-46d38b1c4b50/df0cf3f-a39bc904-bc65-4ed2-a330-ee4c75d5d6a8.png/v1/fill/w_633,h_1261,q_70,strp/johnny_joestar_steel_ball_run_wallpaper_by_crabg45_df0cf3f-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE1MCIsInBhdGgiOiJcL2ZcLzliOTcyMzc1LWM3NmEtNDM1Yy1hYWY3LTQ2ZDM4YjFjNGI1MFwvZGYwY2YzZi1hMzliYzkwNC1iYzY1LTRlZDItYTMzMC1lZTRjNzVkNWQ2YTgucG5nIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xrOmtkA9CllRg4AL65Yen6i64v04-nov7oFdy50I_l8"
+      },
+      {
+        "id": "9",
+        "name": "Josuke Higashikata",
+        "alias": "JoJo",
+        "stand": "Soft & Wet",
+        "introduction": "Part 8: JoJolion",
+        "image": "https://static.wikia.nocookie.net/jjba/images/f/fb/S%26W-GBManga%282%29.gif/revision/latest?cb=20230131165400"
+      },
+      {
+        "id": "10",
+        "name": "Dio Brando",
+        "alias": "none",
+        "part": "1: Phantom Blood",
+        "stand": "The World (Part 3: Stardust Crusaders)",
+        "image": "https://tiermaker.com/images/chart/chart/jojo-main-charecter-designs-1-4anime-45692/dio-brando1png"
+      },
+      {
+        "id": "11",
+        "name": "Wamuu",
+        "alias": "none",
+        "part": "2: Battle Tendency",
+        "stand": "Ninguno",
+        "image": "https://static.wikia.nocookie.net/jojo/images/d/d7/Wamuu_AV.png/revision/latest?cb=20170111131306&path-prefix=es"
+      },
+      {
+        "id": "12",
+        "name": "Esidisi",
+        "alias": "none",
+        "part": "2: Battle Tendency",
+        "stand": "Ninguno",
+        "image": "https://static.wikia.nocookie.net/jojo/images/d/d7/Wamuu_AV.png/revision/latest?cb=20170111131306&path-prefix=es"
+      },
+      {
+        "id": "13",
+        "name": "Kars",
+        "alias": "none",
+        "part": "2: Battle Tendency",
+        "stand": "Ninguno",
+        "image": "https://static.wikia.nocookie.net/jojo/images/5/5f/Kars_anime.png/revision/latest?cb=20161101034048&path-prefix=es"
+      },
+      {
+        "id": "14",
+        "name": "Dio Brando",
+        "alias": "none",
+        "part": "3: Stardust Crusaders",
+        "stand": "The World",
+        "image": "https://w0.peakpx.com/wallpaper/836/479/HD-wallpaper-dio-stand-stand-jojos.jpg"
+      },
+      {
+        "id": "15",
+        "name": "Yoshikage Kira",
+        "alias": "none",
+        "part": "4: Diamond is Unbreakable",
+        "stand": "Killer Queen",
+        "image": "https://static.wikia.nocookie.net/jojo/images/6/68/Kira-anime.png/revision/latest?cb=20170116185149&path-prefix=es"
+      },
+      {
+        "id": "16",
+        "name": "Diavolo",
+        "alias": "none",
+        "part": "5: Golden Wind",
+        "stand": "King Crimson",
+        "image": "https://static.wikia.nocookie.net/jojo/images/6/69/DiavoloAnime.png/revision/latest/scale-to-width-down/1000?cb=20190607184803&path-prefix=es"
+      },
+      {
+        "id": "17",
+        "name": "Enrico Pucci",
+        "alias": "none",
+        "part": "6: Stone Ocean",
+        "stand": "Made in Heaven",
+        "image": "https://static.wikia.nocookie.net/jojo/images/a/aa/Pucci_original.png/revision/latest?cb=20190303160218&path-prefix=es"
+      },
+      {
+        "id": "18",
+        "name": "Funny Valentine",
+        "alias": "none",
+        "part": "7: Steel Ball Run",
+        "stand": "Dirty Deeds Done Dirt Cheap (D4C)",
+        "image": "https://static.wikia.nocookie.net/jojo/images/f/f0/Valentine_Normal.png/revision/latest?cb=20161109142647&path-prefix=es"
+      },
+      {
+        "id": "19",
+        "name": "Tooru",
+        "alias": "none",
+        "part": "8: JoJolion",
+        "stand": "Wonder of U",
+        "image": "https://static.wikia.nocookie.net/jojo/images/9/94/Tooru_Infobox_Manga.png/revision/latest?cb=20210508004557&path-prefix=es"
+      }
+    ]
+  }

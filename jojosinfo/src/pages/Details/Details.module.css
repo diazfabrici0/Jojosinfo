@@ -1,0 +1,23 @@
+.details_container {
+    @apply mt-10;
+  }
+  
+  .details_container_info {
+    @apply text-center font-Nunito py-3 text-lg tracking-wide;
+  }
+  
+  .details_text {
+    @apply font-bold uppercase;
+  }
+  
+  .details_container_members {
+    @apply bg-[#110814] items-center flex flex-col gap-10 px-6 py-8;
+  }
+  
+  .details_container_discography {
+    @apply bg-[#5c1a1c] items-center flex flex-col gap-10 px-6 py-8;
+  }
+  
+  .details_title {
+    @apply font-Montserrat font-bold text-lg;
+  }
